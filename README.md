@@ -7,5 +7,5 @@
 * Version: VB 11.0
 * Target Framework: .Net Framework 4.5
 * IDE: MS Visual Studio 2012
-* Type of Application: Desktop Application (Windows Forms Application)
+* Type of Application: Desktop Application (Windows Forms)
 * User Interface Design: Metro Framework
